@@ -22,7 +22,7 @@ sqlalchemy==1.3.18
 marshmallow==3.7.0
 mistune==0.8.4
 psycopg2-binary==2.8.5
-pyyaml==5.3.1
+pyyaml==5.4
 ubuntu-release-info==20.2
 launchpadlib==1.10.13
 macaroonbakery==1.3.1
